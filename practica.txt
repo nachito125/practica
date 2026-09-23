@@ -1,3 +1,7 @@
 hola
+<<<<<<< HEAD
 extraño a juliana noooooo
+=======
+juliana es tonta muaajajaja
+>>>>>>> evilchayanne
 mmmmm no se
